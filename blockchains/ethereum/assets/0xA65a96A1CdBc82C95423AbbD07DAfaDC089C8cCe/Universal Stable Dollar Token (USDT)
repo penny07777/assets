@@ -1,0 +1,14 @@
+	{
+  "name": "Universal Stable Dollar Token",
+  "website": "",
+  "description": "A seamless digital currency designed for fast, secure, and borderless value transfer. Built to support global payments, decentralized finance, and everyday transactions with efficiency, transparency, and accessibility for users worldwide.",
+  "explorer": "https://etherscan.io/token/0xA65a96A1CdBc82C95423AbbD07DAfaDC089C8cCe",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xA65a96A1CdBc82C95423AbbD07DAfaDC089C8cCe"
+}
+
+
+
